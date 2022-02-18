@@ -12,3 +12,8 @@ li {
     list-style-type:square;
     list-style-position: inside;
 }
+
+img {
+    text-align: center;
+    width: 300px;
+}
